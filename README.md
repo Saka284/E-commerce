@@ -20,5 +20,9 @@ Proyek ini dibangun menggunakan teknologi sebagai berikut:
 ### ERD
 ![ERD](image_2024-05-29_222514456.png)
 ### Login Page
-![login](image_2024-05-29_222514456.png)
+![login](image_2024-05-29_222738713.png)
+### Home Page
+![home](image_2024-05-29_222802946.png)
+### Admin Page
+![admin](image_2024-05-29_222819532.png)
 
