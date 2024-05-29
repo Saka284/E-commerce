@@ -18,6 +18,6 @@ Proyek ini dibangun menggunakan teknologi sebagai berikut:
 - **Database:** MySQL untuk menyimpan data produk, pengguna, dan transaksi
 - **HTML/CSS:** Untuk desain dan tata letak halaman web
 
-![Tampilan Situs](https://drive.google.com/file/d/1MUN4R6XfJYBp8fPRvDW_bOIJ-rBJeeRE/view?usp=drive_link)
+![ERD](image_2024-05-29_222355340.png)
 
 
