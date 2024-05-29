@@ -17,7 +17,7 @@ Proyek ini dibangun menggunakan teknologi sebagai berikut:
 - **Bahasa Pemrograman:** PHP Native
 - **Database:** MySQL untuk menyimpan data produk, pengguna, dan transaksi
 - **HTML/CSS:** Untuk desain dan tata letak halaman web
-
+### ERD
 ![ERD](image_2024-05-29_222514456.png)
 
 
